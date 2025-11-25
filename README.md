@@ -337,6 +337,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
   <p>Hecho con ❤️ para la comunidad de desarrolladores</p>
   <p>⭐ Si te gustó este proyecto, dale una estrella en GitHub ⭐</p>
 </div>
-"# sistema-gestion-tareas" 
-#   s i s t e m a - g e s t i o n - t a r e a s  
- 
